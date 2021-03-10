@@ -1,4 +1,5 @@
 # identity_resolution_interview
+```
 Write a function called merge_user_ids that merges two arrays of user
 objects to provide a final array of user objects (identity resolution).
 
@@ -62,3 +63,4 @@ RETURNS:
             "cheese": "stinky"
         }
     ]
+```
